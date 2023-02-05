@@ -1,8 +1,10 @@
+Wat is je naam?
 Hallo, Tom
+Wat is je naam?
 Hallo, Tim
 ----------------------------------------
 python input without prompt: true
 block count: multi
 input block size: 1
-output block size: 1 
+output block size: 2 
 show line numbers: false
