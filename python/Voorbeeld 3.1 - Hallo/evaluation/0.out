@@ -1,3 +1,11 @@
+Wat is je naam?
+Hallo, Tom
+Wat is je naam?
+Hallo, Tim
 --------------------------------------------------
-tab name: Voorbeeld 3.1 - Hallo
-used output channel: stdout
+python input without promt: true
+block count: multi
+input block size: 1
+output block size: 2
+blockwise execution: true
+continue upon wrong answer: true
