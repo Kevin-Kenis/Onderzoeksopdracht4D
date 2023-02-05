@@ -2,7 +2,7 @@ Hallo, Tom
 Hallo, Tim
 ----------------------------------------
 python input without prompt: true
-block count: multi
+block count: one
 input block size: 1
 output block size: 1 
 show line numbers: false
