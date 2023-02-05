@@ -1,3 +1,2 @@
-print('Wat is je naam?')
-naam = input()
+naam = input("Wat is je naam? ")
 print('Hallo,' , naam)
