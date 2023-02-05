@@ -3,7 +3,7 @@ Hallo, Tom
 Wat is je naam?
 Hallo, Tim
 --------------------------------------------------
-python input without promt: true
+python input without promt: false
 block count: multi
 input block size: 1
 output block size: 2
