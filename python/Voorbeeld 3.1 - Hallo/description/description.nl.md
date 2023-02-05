@@ -1,1 +1,1 @@
-Voer de code uit door op het papieren vliegtuigje te klikken.
+Klik op het papieren vliegtuig om de code uit te voeren.

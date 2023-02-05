@@ -1,19 +1,17 @@
 {
   "description": {
     "names": {
-      "nl": "Voorbeeld 3.1 - Hallo"
+      "nl": "Voorbeeld 1.1 - Hallo"
     }
   },
   "evaluation": {
-    "pythia_judge": "doctest"
+    "pythia_judge": "output"
   },
-  "access": "public",
   "labels": [
-    "function",
-    "print"
+
   ],
   "internals": {
-    "token": "K_-axezJSiiYzINwBEIEcJXqnKTXx5R9pRKckIScxQhi8qZ3e877s-8X_ybKEhvq",
+    "token": "9eJD9fUSVFd5nTEY-VVSIcsS8aDuEUrgfsjgBzjmCfN9YX59sb4m-FqjIRcmXI3k",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
