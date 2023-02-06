@@ -1,0 +1,3 @@
+naam = 'Jolien'
+resultaat = 'Welkom ' + naam
+print(resultaat)
