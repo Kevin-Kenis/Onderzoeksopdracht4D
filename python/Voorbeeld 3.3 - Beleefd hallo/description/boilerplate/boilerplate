@@ -1,0 +1,6 @@
+# Toon de vraag
+print("Wat is je naam?")
+# Onthou de invoer (naam)
+naam = input()
+# Toon de naam
+print("Hallo,", naam)

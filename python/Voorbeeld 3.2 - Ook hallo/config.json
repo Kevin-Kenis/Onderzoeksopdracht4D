@@ -1,0 +1,17 @@
+{
+  "description": {
+    "names": {
+      "nl": "Voorbeeld 3.2 - Ook hallo"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+
+  ],
+  "internals": {
+    "token": "C3ZSXZu6uyIAM96vU4qe7uAKee5HITRWDeP4tWK3dMQcBswHX_YhPsqrFJv-tukd",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

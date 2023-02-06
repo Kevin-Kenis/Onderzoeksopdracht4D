@@ -1,0 +1,1 @@
+Hieronder staat hetzelfde programma opnieuw, maar op een meer uitgebreide manier geschreven.

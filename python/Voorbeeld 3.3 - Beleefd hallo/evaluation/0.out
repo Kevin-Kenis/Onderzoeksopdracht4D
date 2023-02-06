@@ -1,0 +1,15 @@
+Wat is je naam?
+Hallo, Tom
+Hoe gaat het?
+Wat is je naam?
+Hallo, Tim
+Hoe gaat het?
+Wat is je naam?
+Hallo, Annelies
+Hoe gaat het?
+----------------------------------------
+python input without prompt: true
+block count: multi
+input block size: 1
+output block size: 3
+show line numbers: false
