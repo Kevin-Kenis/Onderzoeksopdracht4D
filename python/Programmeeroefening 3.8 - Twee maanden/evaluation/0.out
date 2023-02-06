@@ -17,5 +17,5 @@ Mo Tu We Th Fr Sa Su
 python input without prompt: true
 block count: one
 input block size: 0
-output block size: 7 
+output block size: 15
 show line numbers: false
