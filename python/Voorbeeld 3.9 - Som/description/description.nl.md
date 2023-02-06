@@ -1,0 +1,1 @@
+Het volgende stukje code berekent de som van twee getallen.

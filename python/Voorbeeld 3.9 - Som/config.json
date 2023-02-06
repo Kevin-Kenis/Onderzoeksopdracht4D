@@ -1,0 +1,17 @@
+{
+  "description": {
+    "names": {
+      "nl": "Voorbeeld 3.9 - Som"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+
+  ],
+  "internals": {
+    "token": "EvISVTGCJHYkxJQJ--pVqk9nD5dt9tpsb_gGMkRVRGm6TIhrqr6JduVMzdRZkbb2",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
