@@ -1,0 +1,1 @@
+Pas het onderstaande programma aan zodat je het vershil teruggeeft in plaats van de som van de getallen. Test je resultaat door de getallen 5 en 2 in te geven.

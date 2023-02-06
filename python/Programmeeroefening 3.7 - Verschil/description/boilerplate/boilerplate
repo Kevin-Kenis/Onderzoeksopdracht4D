@@ -1,0 +1,8 @@
+# numX wordt 5
+numX = 5
+# numY wordt 2
+numY = 2
+# Tel de getallen op
+som = numX + numY
+#Toon de oplossing
+print('Het resultaat van je berekening is', som)
