@@ -1,0 +1,3 @@
+Annelies heeft een spelletjeswinkel. Het spel "Qwixx" is erg populair en kost in de winkel €11,95. Bij de aankoop bij de leverancier krijgt Annelies 30% korting. Ze bestelt 150 spellen "Qwixx". Het verzenden van het spel naar haar winkel kost €2,50 per spel voor de eerste 10 spellen en daarna €0,75 extra per spel. Het volgende programma berekent hoeveel het Annelies kost om deze spellen aan te kopen en te lanten leveren in de winkel.  
+
+Omdat Annelies een goede afnemer is bij de leverancier, verandert die de korting voor haar naar 35% bij de aankoop van de spellen. Pas het programma aan om deze extra korting te verwerken.

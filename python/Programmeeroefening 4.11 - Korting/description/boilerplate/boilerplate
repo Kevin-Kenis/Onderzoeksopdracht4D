@@ -1,0 +1,5 @@
+aantal = 150
+aankoop = aantal * 11.95 * (1 - 0.30)
+verzending = 10 * 2.50 + (aantal - 10) * 0.75
+totaal = aankoop + verzending
+print(totaal)

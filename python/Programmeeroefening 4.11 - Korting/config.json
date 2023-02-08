@@ -1,0 +1,17 @@
+{
+  "description": {
+    "names": {
+      "nl": "Programmeeroefening 4.11 - Korting"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+
+  ],
+  "internals": {
+    "token": "4-rF3Cevkv8I3yFXdP8CCzKvdYvvHP3uBwHbmhPryI9PcxI477qJ6gBcynxTCNvJ",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
