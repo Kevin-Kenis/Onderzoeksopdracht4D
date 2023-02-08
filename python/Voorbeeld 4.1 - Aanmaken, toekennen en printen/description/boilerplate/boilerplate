@@ -1,0 +1,4 @@
+# Variabele met naam x en waarde 5
+x = 5
+# Print het resultaat
+print(x)
