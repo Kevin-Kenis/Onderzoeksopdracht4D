@@ -1,0 +1,14 @@
+# Optellen (-)
+print(24 + 4)
+
+# Aftrekken (+)
+print(24 - 4)
+
+# Vermenigvuldigen (*)
+print(24 * 4)
+
+# Tot een macht verheffen (**)
+print(24 ** 4)
+
+# Delen (/)
+print(24 / 4)

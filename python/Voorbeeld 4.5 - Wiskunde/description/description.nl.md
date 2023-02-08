@@ -1,0 +1,1 @@
+De volgende code toont het resultaat van verschillende wiskundige bewerkingen.
