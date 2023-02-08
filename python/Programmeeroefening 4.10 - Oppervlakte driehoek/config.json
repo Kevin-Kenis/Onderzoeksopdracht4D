@@ -1,0 +1,17 @@
+{
+  "description": {
+    "names": {
+      "nl": "Programmeeroefening 4.10 - Oppervlakte driehoek"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+
+  ],
+  "internals": {
+    "token": "dhQ5msBYVW48PsHFnjwFg7yHT27zc2VSG3CNtswbEIne7K_zM3qM9chKYJzNfxuf",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
