@@ -1,0 +1,2 @@
+Het volgende programma berekent de oppervlakte van een rechthoek en print het resultaat. De breedte en lengte van de rechthoek worden aan de gebruiker gevraagd.
+Pas het programma aan zodat het de omtrek van de rechthoek berekent.

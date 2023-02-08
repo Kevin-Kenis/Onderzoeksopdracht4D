@@ -1,0 +1,5 @@
+lengte = int(input())
+breedte = int(input())
+
+oppervlakte = lengte * breedte
+print(oppervlakte)

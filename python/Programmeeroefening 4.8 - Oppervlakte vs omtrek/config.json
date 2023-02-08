@@ -1,0 +1,17 @@
+{
+  "description": {
+    "names": {
+      "nl": "Programmeeroefening 4.8 - Oppervlakte vs omtrek"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+
+  ],
+  "internals": {
+    "token": "CVK4D2AcU6CsDcIFEPQzIvEdmG4B3Csbk6-D_nN_KvGfxrvAaVXrq26jg9cCmuc7",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
